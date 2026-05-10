@@ -27,6 +27,14 @@ Built with **Python + CustomTkinter**, it provides a clean UI, QR-based access, 
 
 ---
 
+## 🚀 Installation & Demo
+
+To run the application without setting up a local development environment, you can download the pre-compiled executable:
+
+* **Windows (.exe):** [Download from Google Drive](https://drive.google.com/file/d/11CZeukUqlZRVqfzI93jcgSDiYOX9npBf/view?usp=drive_link)
+
+---
+
 ## 🛠️ Tech Stack
 
 * **Python 3**
